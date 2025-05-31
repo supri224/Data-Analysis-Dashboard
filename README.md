@@ -24,3 +24,8 @@ This project focuses on analyzing road accident data to identify key patterns an
 - Add visual charts/images in a visuals/ folder
 ## Dashboard
 ![Road Accident Analysis Dashboard](https://github.com/user-attachments/assets/492c6d23-106c-4d60-b460-b67a90b04d4b)
+
+## Final Conculsion
+This project provides a structured approach to analyzing road accident data with a focus on extracting meaningful KPIs related to casualty severity. By transforming raw, unstructured data into a clean format and visualizing key insights, we can identify the proportions of fatal, serious, and slight injuries and ask critical questions that help inform public safety strategies. The defined KPIs can serve as a foundation for deeper trend analysis, risk assessment, and future decision-making tools. This repository is intended to support researchers, data analysts, and policymakers in understanding and acting on road safety challenges using data-driven insights.
+
+
