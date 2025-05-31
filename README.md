@@ -22,3 +22,5 @@ This project focuses on analyzing road accident data to identify key patterns an
 - Open the Excel file
 - Remove:Empty rows and columns
 - Add visual charts/images in a visuals/ folder
+## Dashboard
+![Road Accident Analysis Dashboard](https://github.com/user-attachments/assets/492c6d23-106c-4d60-b460-b67a90b04d4b)
