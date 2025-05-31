@@ -15,3 +15,10 @@ This project focuses on analyzing road accident data to identify key patterns an
 - How does the distribution of fatal/severe/slight accidents compare across different groups (e.g., region, vehicle type, time)?
 - Are there outliers in regions with unusually high fatality proportions?
 - Dashboard interaction <a href="https://github.com/supri224/Data-Analysis-Dashboard/blob/main/Road%20Accident%20Analysis%20Dashboard.png"> view dashboard</a>
+
+
+## Process
+- Create a folder named road-accident-kpi-analysis
+- Open the Excel file
+- Remove:Empty rows and columns
+- Add visual charts/images in a visuals/ folder
